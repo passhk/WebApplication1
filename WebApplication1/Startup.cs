@@ -40,7 +40,7 @@ namespace WebApplication1
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            Console.WriteLine("服务注册完成");
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
