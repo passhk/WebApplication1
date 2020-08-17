@@ -38,6 +38,9 @@ namespace WebApplication1.Pages
                     }
                 }
             }
+
+            while (true)
+            { }
         }
     }
 }
