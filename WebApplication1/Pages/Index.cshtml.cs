@@ -19,7 +19,25 @@ namespace WebApplication1.Pages
 
         public void OnGet()
         {
-
+            string sv = "333";
+            string webService = "222";
+            string webserv = "11";
+            if (sv == "333")
+            {
+                if (webserv == "111")
+                {
+                    if (webserv == "22")
+                    {
+                        if (webserv == "222")
+                        {
+                            if (webserv == "222")
+                            { 
+                            
+                            }
+                        }
+                    }
+                }
+            }
         }
     }
 }
