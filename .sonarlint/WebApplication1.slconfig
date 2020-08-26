@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://www.sdqdsv.cn:9000/",
+  "Organization": null,
+  "ProjectKey": "project1",
+  "ProjectName": "project1",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AXP7j7S2mol1jVqzt5Mj",
+      "ProfileTimestamp": "2020-08-17T08:36:05Z"
+    }
+  }
+}
