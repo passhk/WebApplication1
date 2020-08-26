@@ -199,17 +199,11 @@ namespace WebApplication1.Pages
                 }
             }
 
-            //while (true)
-            //{
-
-            //}
+          
         }
 
         public void sss() {
-            while (true)
-            {
-
-            }
+            
         }
 
         public void vvv() { 
@@ -217,5 +211,7 @@ namespace WebApplication1.Pages
         }
 
         public void rrr() { }
+
+        public void ddd() { }
     }
 }
