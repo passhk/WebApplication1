@@ -213,5 +213,7 @@ namespace WebApplication1.Pages
         public void rrr() { }
 
         public void ddd() { }
+
+        public void eee() { }
     }
 }
